@@ -1,1 +1,6 @@
 "Hello GitHub!" 
+This is a trial for pulling file from github.
+NO
+YES
+NO
+YES
